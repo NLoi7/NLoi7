@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **UIT 😆** 
-- 🌱 I’m currently learning **Cyber Security - Pentest - Developer (Improving) - other about Security 🫶** 
+- 🔭 I’m currently working at **Payoo 😆** 
+- 🌱 I’m currently learning **Cyber Security - Penetration Testing - SOC - Something relative to Cybersecurity 🫶** 
 - 💬 Ask me about github
 
